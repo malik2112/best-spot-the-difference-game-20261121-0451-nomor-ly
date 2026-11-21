@@ -1,0 +1,7 @@
+selftest-a/
+selftest-b/
+out/
+transcripts.tar.gz
+session-*.json
+prompt.txt
+system-prompt.txt
